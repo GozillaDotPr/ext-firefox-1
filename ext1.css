@@ -7,7 +7,7 @@
   min-width: 170px;
   border: none;
   cursor: pointer;
-  box-shadow:2px 2px 2px black;
+  box-shadow: 1px 1px 3px #888888;
 }
 
 .dropdownkdb {
